@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="a8fd0356-cadc-4105-98ab-fe8df56c08c1" name="@localhost Mapping">
+      <data-sources db="0b8d3848-bf7a-47d4-8543-da41ff4644ee" />
+      <scope>
+        <node kind="schema" qname="wordoccurrences" />
+      </scope>
+    </mapping>
+  </component>
+</project>
